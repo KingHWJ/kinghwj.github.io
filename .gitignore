@@ -1,0 +1,4 @@
+public/
+*.log
+.deploy*/
+node_modules/
