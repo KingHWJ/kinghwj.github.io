@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "00-进入hexo文件夹"
+cd hexo
+
 # 生成静态文件
 echo "01-生成静态文件"
 hexo generate
